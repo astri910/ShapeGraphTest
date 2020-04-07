@@ -92,5 +92,5 @@ class DemoView: UIView {
         path.addLine(to: CGPoint(x: self.frame.size.width, y: self.frame.size.height))
         path.close()
     }
-    
+    //Tambahan dari Astri
 }
